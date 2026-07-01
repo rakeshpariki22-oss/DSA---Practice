@@ -13,4 +13,28 @@
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rakeshpariki22-oss/DSA---Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Array
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/rakeshpariki22-oss/DSA---Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Binary Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/rakeshpariki22-oss/DSA---Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/rakeshpariki22-oss/DSA---Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/rakeshpariki22-oss/DSA---Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/rakeshpariki22-oss/DSA---Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/rakeshpariki22-oss/DSA---Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
