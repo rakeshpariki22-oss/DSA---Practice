@@ -16,6 +16,7 @@
 ## Array
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/rakeshpariki22-oss/DSA---Practice/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rakeshpariki22-oss/DSA---Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rakeshpariki22-oss/DSA---Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Search
@@ -41,6 +42,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/rakeshpariki22-oss/DSA---Practice/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rakeshpariki22-oss/DSA---Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rakeshpariki22-oss/DSA---Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
@@ -56,4 +58,8 @@
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/rakeshpariki22-oss/DSA---Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/rakeshpariki22-oss/DSA---Practice/tree/master/1301-number-of-paths-with-max-score) |
 <!---LeetCode Topics End-->
